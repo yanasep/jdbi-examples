@@ -6,6 +6,15 @@
     <groupId>hu.unideb.inf</groupId>
     <artifactId>jdbi-examples</artifactId>
     <version>1.0</version>
+    <developers>
+        <developer>
+            <id>jeszy</id>
+            <name>Péter Jeszenszky</name>
+            <email>jeszenszky.peter@inf.unideb.hu</email>
+            <organization>Faculty of Informatics, University of Debrecen</organization>
+            <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
+        </developer>
+    </developers>
     <scm>
         <url>https://github.com/jeszy75/jdbi-examples</url>
         <connection>scm:git:https://github.com/jeszy75/jdbi-examples.git</connection>
